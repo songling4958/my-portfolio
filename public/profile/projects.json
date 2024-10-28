@@ -1,0 +1,90 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/ma_tour_gpt.png",
+            "title": "ChatGPT for Tour",
+            "bodyText": "- The **OpenAI API**, specifically the **ChatGPT** 3.5 turbo version, is integrated into the project. The project is divied into several parts, first is authentication, for which the **clerk** library is used. Users can register/login via email, linkedin or github.\n - An integrated prompt specifically for tours that takes two parameters, a country and a city, and generates the top 3 places to see in that city.",
+            "tags" : [
+                "Next.js",
+                "Tailwind CSS",
+                "Clerk",
+                "Prisma"
+            ]
+        },
+        {
+            "image" : "images/projects/markdown_email_template.png",
+            "title": "Web App for Converting Markdown to Email Template",
+            "bodyText": "- Implemented the functionality using React-Email Modules.",
+            "tags" : [
+                "Next.js",
+                "Tailwind CSS",
+                "React-email"
+            ]
+        },
+        {
+            "title": "Secure Chat App",
+            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "tags" : [
+                "Java",
+                "Android",
+                "Firebase",
+                "RSA"
+            ]
+        },
+        {
+            "title": "MVVM Sample App",
+            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "tags" : [
+                "Kotlin",
+                "Android",
+                "MVVM",
+                "Room",
+                "Coroutines",
+                "Flow",
+                "Hilt-Dagger",
+                "NetworkBoundResource"
+            ]
+        },
+        {
+            "title": "Feed List App",
+            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
+            "tags" : [
+                "Kotlin",
+                "Android",
+                "MVVM",
+                "Paging 3",
+                "Coroutines",
+                "Flow"
+            ]
+        },
+        {
+            "title": "Task Tracker",
+            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "tags" : [
+                "TypeScript",
+                "Angular 12",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Image Encryption/Decryption",
+            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "tags" : [
+                "Python",
+                "Django",
+                "SDES",
+                "Cryptography"
+            ]
+        }
+    ]
+}

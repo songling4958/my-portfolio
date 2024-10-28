@@ -1,0 +1,40 @@
+{
+    "experiences": [
+        {
+            "title": "Senior Software Developer",
+            "subtitle": "Supermind",
+            "workType": "Full-time",
+            "workDescription": [
+                "Enhanced user experience by 25% by developing and integrating dynamic features using React and Node.js.",
+                "Integrated a wide range of third-party services and components like **stripe** payment gateway, and geo-location services.",
+                "Implemented the application's CI/CD pipeline using AWS **CodePipeline**.",
+                "Implemented unit test and automated testing process to ensure high-quality codebase by using **Jest**, and **Mocha**."
+            ],
+            "dateText": "01/2024 – 07/2024"
+        },
+        {
+            "title": "Frontend Engineer",
+            "subtitle": "Evolphin",
+            "workType": "Full-time",
+            "workDescription": [
+                "Improved website performance by optimizing images, reducing page size, and implementing **lazy loading** and **code splitting**.",
+                "Reduced system **downtime by 40%** by optimizing server architecture and implementing **Redis** for caching and session management.",
+                "Monitored system health, debugged performance issues, and optimized applications using both **server-side** and **client side** techniques.",
+                "Implemented the chart with **D3.js**, and **Rechart** for real-time data visualization."
+            ],
+            "dateText": "01/2023 – 11/2023"
+        },
+        {
+            "title": "Full Stack Develop",
+            "subtitle": "Digital Candy",
+            "workType": "Full-time",
+            "workDescription": [
+                "Enforced **Agile & Scrum** methodologies on interface projects.",
+                "Used **GraphQL**, **Socket.io**, **gRPC** to implement real-time updates and notifications.",
+                "Implemented user authentication and authorization using **JWT** and **OAuth 2.0**.",
+                "Integrated with **Twilio** and **Sendgrid** email services."
+            ],
+            "dateText": "02/2020 – 02/2021"
+        }
+    ]
+}
